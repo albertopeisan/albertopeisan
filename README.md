@@ -1,57 +1,51 @@
 <div align="center">
 
-<img src="assets/building-things.svg" alt="Three connected worlds: cloud infrastructure, Counter-Strike crafts, and shared homes" width="100%" />
-
 <h1>Alberto Peinado Santana</h1>
 
-<p>Lead Architect at <strong>NTT DATA Europe &amp; Latam</strong> · Spain</p>
+<p><strong>Small ideas. Useful products.</strong></p>
 
-<p><em>Turning complex problems and messy data into simple, beautifully crafted products people actually use.</em></p>
+<p>I build things for the web and mobile, from cloud tools to the next train home.</p>
 
-<p><a href="https://www.linkedin.com/in/albertopeinadosantana/">LinkedIn</a></p>
+<p><samp>☁️ cloud &nbsp; · &nbsp; 🎮 play &nbsp; · &nbsp; 🏡 home &nbsp; · &nbsp; 🚆 travel</samp></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/albertopeinadosantana/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/albertopeisan">GitHub</a>
+</p>
 
 </div>
 
-## On the workbench
-
-Three live products. Three very different problems. The same curiosity behind each one.
-
 ---
 
-<sub>01 / CLOUD INTELLIGENCE</sub>
+## A few things I'm building
 
-### 🖥️ [Cloudpylon](https://cloudpylon.com)
+### ☁️ Cloudpylon
 
-**Find the right cloud machine without getting lost in the options.**
+**Find the right cloud server.** Compare prices, hardware specifications and regions across cloud providers, with the details you need to choose a machine.
 
-A multi-cloud compute instance benchmark and real-time pricing intelligence platform. Compare compute instances, hardware specifications (vCPU, RAM, GPU, storage), machine images, and regional pricing across 13+ cloud providers—including AWS, Azure, Google Cloud, Hetzner, Scaleway, and DigitalOcean—with live currency conversion.
+[cloudpylon.com ↗](https://cloudpylon.com)
 
-**[Explore Cloudpylon →](https://cloudpylon.com)**
+### 🎮 CS2Sticker
 
----
+**Picture your next craft.** Explore Counter-Strike 2 stickers and use an interactive 3D builder to preview how your custom sticker combinations look on a weapon.
 
-<sub>02 / GAMING ASSETS & 3D STUDIO</sub>
+[cs2sticker.com ↗](https://cs2sticker.com)
 
-### 🎮 [CS2Sticker](https://cs2sticker.com)
+### 🏡 Rumis
 
-**Go from finding a sticker to imagining the finished craft.**
+**A little less admin for your shared home.** Keep expenses, chores, shopping lists and events together, with native apps for iOS and Android.
 
-A Counter-Strike 2 catalog and interactive 3D craft studio. Explore stickers, skins, tournament capsules, and market data, then inspect, position, rotate, and simulate wear on custom sticker crafts with a real-time 3D weapon visualizer before trading or crafting in-game.
+[rumisapp.com ↗](https://rumisapp.com)
 
-**[Explore CS2Sticker →](https://cs2sticker.com)**
+### 🚌 Transporte Granada
 
----
+**Know when your ride arrives.** Bus and Metro arrivals for Granada, plus offline routes and timetables to help you get around the city and its metropolitan area. For iOS and Android.
 
-<sub>03 / HOUSEHOLD PLATFORM</sub>
+[transportegranada.com ↗](https://transportegranada.com)
 
-### 🧑‍🤝‍🧑 [Rumis](https://rumisapp.com)
+### 🚆 Trenes Ahora
 
-**Make sharing a home feel a little lighter.**
+**Keep up with your train.** Follow station departures, delays and train journeys across Spain, with offline timetables and native apps for iOS and Android.
 
-Shared household management for roommates and couples. Rumis brings calm and structure to shared living with fair expense splitting, automated debt settlements, recurring chore schedules, communal grocery lists, and shared home activity in one intuitive mobile experience.
-
-**[Explore Rumis →](https://rumisapp.com)**
-
----
-
-<p align="center"><sub>From cloud servers to sticker crafts to the place we call home: build it, ship it, keep making it better.</sub></p>
+[trenesahora.com ↗](https://trenesahora.com)
