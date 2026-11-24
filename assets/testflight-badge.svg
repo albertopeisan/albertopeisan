@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" role="img" aria-label="Join the beta on TestFlight">
+<rect x=".5" y=".5" width="149" height="43" rx="9" fill="#0b0b0c" stroke="#8b949e"/>
+<g transform="translate(22 22)" fill="none" stroke="#3ea6ff" stroke-width="2.4" stroke-linecap="round">
+<circle r="11"/><path d="M0-11V11M-9.5-5.5 9.5 5.5M-9.5 5.5 9.5-5.5" stroke-width="1.6" opacity=".55"/><circle r="3.2" fill="#3ea6ff" stroke="none"/></g>
+<text x="42" y="18" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing=".3">JOIN THE BETA ON</text>
+<text x="41" y="35" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="600">TestFlight</text>
+</svg>
