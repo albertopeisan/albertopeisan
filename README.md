@@ -2,13 +2,8 @@
 
 <h1>Alberto Peinado Santana</h1>
 
-<p><strong>Small ideas. Useful products.</strong><br>
-I build things for the web and mobile, from cloud pricing to the next train home.</p>
-
 <p>
-  <a href="https://www.linkedin.com/in/albertopeinadosantana/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="#directory">Directory</a>
+  <a href="https://www.linkedin.com/in/albertopeinadosantana/"><img src="assets/linkedin.svg" width="32" height="32" alt="Alberto Peinado Santana on LinkedIn"></a>
 </p>
 
 <img src="assets/departures.svg" width="100%" alt="Departures board: Cloudpylon, CS2Sticker and Parfumalia are live on the web; Rumis, Outfity, Trenes Ahora, Transportes Granada and Peckly have public iOS betas on TestFlight.">
@@ -42,22 +37,22 @@ Every project, where to use it today, and where to try the apps before they reac
     <tr>
       <td align="center"><img src="assets/icons/rumis.png" width="52" height="52" alt=""></td>
       <td><strong>Rumis</strong><br>A shared home on the same page: rotating chores, one shopping list, expenses and a calendar.</td>
-      <td><a href="https://rumisapp.com">rumisapp.com&nbsp;↗</a><br><a href="https://testflight.apple.com/join/3pBBDCCe"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Rumis beta on TestFlight"></a></td>
+      <td><a href="https://rumisapp.com">rumisapp.com&nbsp;↗</a><br><br><a href="https://testflight.apple.com/join/3pBBDCCe"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Rumis beta on TestFlight"></a></td>
     </tr>
     <tr>
       <td align="center"><img src="assets/icons/outfity.png" width="52" height="52" alt=""></td>
       <td><strong>Outfity</strong><br>Your wardrobe on your iPhone: save outfits, sort them and plan each day. No account.</td>
-      <td><a href="https://outfityapp.com">outfityapp.com&nbsp;↗</a><br><a href="https://testflight.apple.com/join/Aqqvu3F7"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Outfity beta on TestFlight"></a></td>
+      <td><a href="https://outfityapp.com">outfityapp.com&nbsp;↗</a><br><br><a href="https://testflight.apple.com/join/Aqqvu3F7"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Outfity beta on TestFlight"></a></td>
     </tr>
     <tr>
       <td align="center"><img src="assets/icons/trenesahora.png" width="52" height="52" alt=""></td>
       <td><strong>Trenes Ahora</strong><br>Live departures from any station in Spain, with delays, cancellations and platforms.</td>
-      <td><a href="https://trenesahora.com">trenesahora.com&nbsp;↗</a><br><a href="https://testflight.apple.com/join/ykKw7M1B"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Trenes Ahora beta on TestFlight"></a></td>
+      <td><a href="https://trenesahora.com">trenesahora.com&nbsp;↗</a><br><br><a href="https://testflight.apple.com/join/ykKw7M1B"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Trenes Ahora beta on TestFlight"></a></td>
     </tr>
     <tr>
       <td align="center"><img src="assets/icons/transportegranada.png" width="52" height="52" alt=""></td>
       <td><strong>Transportes Granada</strong><br>Granada's urban buses and metro, live, plus the interurban bus timetable.</td>
-      <td><a href="https://transportegranada.com">transportegranada.com&nbsp;↗</a><br><a href="https://testflight.apple.com/join/eq4FwS9j"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Transportes Granada beta on TestFlight"></a></td>
+      <td><a href="https://transportegranada.com">transportegranada.com&nbsp;↗</a><br><br><a href="https://testflight.apple.com/join/eq4FwS9j"><img src="assets/testflight-badge.svg" width="150" height="44" alt="Join the Transportes Granada beta on TestFlight"></a></td>
     </tr>
     <tr>
       <td align="center"><img src="assets/icons/peckly.png" width="52" height="52" alt=""></td>
