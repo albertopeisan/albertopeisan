@@ -1,6 +1,6 @@
 ## Sub-agents
 
-Never spawn, invoke, or use sub-agents or delegate work to other agents under any circumstances. Complete all work in the current agent session.
+Use sub-agents when they save tokens or time or the main agent judges them beneficial: parallel independent work, broad search, review. Give each a complete brief and disjoint files; choose the model by complexity (Haiku for search, lookups and mechanical edits; Sonnet for standard implementation and review; Opus for architecture, policy and hard debugging); verify their results before reporting (platform AG-17).
 
 ## Usage-limit checkpoints and resumption
 
